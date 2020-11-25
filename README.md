@@ -98,7 +98,7 @@
     MVS_Molle_Panel_Multicam_Black, *, 1000, 500
 
 
-    <Category> Belts
+    <Category> MVS Belts
   
     MVS_Belt_OD, *, 1000, 50
     MVS_Belt_Tan, *, 1000, 50
@@ -109,7 +109,7 @@
     MVS_Belt_Multicam_Tropic, *, 1000, 50
     MVS_Belt_Multicam_Black, *, 1000, 50
 
-    <Category> Sheaths and Holster
+    <Category> MVS Sheaths and Holster
   
     MVS_Holster_OD, *, 100, 50
     MVS_Holster_Tan, *, 100, 50
@@ -128,7 +128,7 @@
     MVS_Sheath_Multicam_Tropic, *, 100, 50
     MVS_Sheath_Multicam_Black, *, 100, 50
 
-    <Category> Backpacks
+    <Category> MVS Backpacks
   
     MVS_Pack_OD, *, 1400, 50
     MVS_Pack_Tan, *, 1400, 50
@@ -184,7 +184,7 @@
     MVS_Compact_2_Multicam_Tropic, *, 2100, 50
     MVS_Compact_2_Multicam_Black, *, 2100, 50
 
-    <Category> Hats
+    <Category> MVS Hats
   
     MVS_Pakol_brown, *, 100, 50
     MVS_Pakol_Comtac, *, 100, 50
@@ -207,7 +207,7 @@
     MVS_BoonieHat_Multicam_Tropic, *, 100, 50
     MVS_BoonieHat_Multicam_Black, *, 100, 50
 
-    <Category> Helmets
+    <Category> MVS Helmets
   
     MVS_Helmet_01_Tan, *, 5100, 50
     MVS_Helmet_01_Tan_Worn, *, 5100, 50
@@ -251,7 +251,7 @@
     MVS_WarriorHelmet_Multicam_Tropic, *, 25000, 2500
     MVS_WarriorHelmet_Multicam_Black, *, 15000, 500
 
-    <Category>MVS Clothing
+    <Category> MVS Clothing
   
     MVS_GorkaPants, *, 1000, 50
     MVS_GorkaPants_Snow, *, 1000, 50
@@ -287,7 +287,7 @@
     MVS_CombatShirt_Multicam_Tropic, *, 1000, 50
     MVS_CombatShirt_Multicam_Black, *, 1000, 50
 
-    <Category> Respirators
+    <Category> MVS Respirators
   
     MVS_S10Respirator_OD, *, 1000, 50
     MVS_S10Respirator_Tan, *, 1000, 50
@@ -299,7 +299,7 @@
     MVS_M50Respirator_Black, *, 1000, 50
     MVS_M50Respirator_Snow, *, 1000, 50
 
-    <Category> Balaclavas
+    <Category> MVS Balaclavas
   
     MVS_Balaclava_Wraith, *, 1000, 50
     MVS_Balaclava_Wraith_Comtacs, *, 1000, 50
@@ -314,13 +314,13 @@
     MVS_Facemask_Black, *, 1000, 50
     MVS_Facemask_Snow, *, 1000, 50
 
-    <Category>Comtacs
+    <Category> MVS Comtacs
   
     MVS_Comtacs_OD, *, 500, 50
     MVS_Comtacs_Tan, *, 500, 50
     MVS_Comtacs_Black, *, 500, 50
 
-    <Category>Patches
+    <Category> MVS Patches
   
     MVS_Patch_01, *, 50, 25
     MVS_Patch_02, *, 50, 25
