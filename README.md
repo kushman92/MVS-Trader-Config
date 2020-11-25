@@ -227,29 +227,29 @@
     MVS_OpsCore_Multicam_Tropic, *, 7100, 50
     MVS_OpsCore_Multicam_Black, *, 7100, 50
 
-    MVS_ArmoredHelmet_Tan, *, 10000, 1000
-    MVS_ArmoredHelmet_OD, *, 10000, 1000
-    MVS_ArmoredHelmet_Black, *, 10000, 1000
-    MVS_ArmoredHelmet_Snow, *, 10000, 1000
-    MVS_ArmoredHelmet_ERDL, *, 10000, 1000
-    MVS_ArmoredHelmet_Multicam, *, 10000, 1000
-    MVS_ArmoredHelmet_Multicam_Tropic, *, 10000, 1000
-    MVS_ArmoredHelmet_Multicam_Black, *, 10000, 1000
-    MVS_Altyn_OD, *, 15000, 1500
-    MVS_Altyn_Tan, *, 15000, 1500
-    MVS_Altyn_Black, *, 15000, 1500
-    MVS_Altyn_Visor_OD, *, 5000, 500
-    MVS_Altyn_Visor_Tan, *, 5000, 500
-    MVS_Altyn_Visor_Black, *, 5000, 500
+    MVS_ArmoredHelmet_Tan, *, 15000, 1000
+    MVS_ArmoredHelmet_OD, *, 15000, 1000
+    MVS_ArmoredHelmet_Black, *, 15000, 1000
+    MVS_ArmoredHelmet_Snow, *, 15000, 1000
+    MVS_ArmoredHelmet_ERDL, *, 15000, 1000
+    MVS_ArmoredHelmet_Multicam, *, 15000, 1000
+    MVS_ArmoredHelmet_Multicam_Tropic, *, 15000, 1000
+    MVS_ArmoredHelmet_Multicam_Black, *, 15000, 1000
+    MVS_Altyn_OD, *, 25000, 1500
+    MVS_Altyn_Tan, *, 25000, 1500
+    MVS_Altyn_Black, *, 25000, 1500
+    MVS_Altyn_Visor_OD, *, 15000, 500
+    MVS_Altyn_Visor_Tan, *, 15000, 500
+    MVS_Altyn_Visor_Black, *, 15000, 500
 
-    MVS_WarriorHelmet_Tan, *, 25000, 2500
-    MVS_WarriorHelmet_OD, *, 25000, 2500
-    MVS_WarriorHelmet_Black, *, 25000, 2500
-    MVS_WarriorHelmet_Snow, *, 25000, 2500
-    MVS_WarriorHelmet_ERDL, *, 25000, 2500
-    MVS_WarriorHelmet_Multicam, *, 25000, 2500
-    MVS_WarriorHelmet_Multicam_Tropic, *, 25000, 2500
-    MVS_WarriorHelmet_Multicam_Black, *, 15000, 500
+    MVS_WarriorHelmet_Tan, *, 50000, 2500
+    MVS_WarriorHelmet_OD, *, 50000, 2500
+    MVS_WarriorHelmet_Black, *, 50000, 2500
+    MVS_WarriorHelmet_Snow, *, 50000, 2500
+    MVS_WarriorHelmet_ERDL, *, 50000, 2500
+    MVS_WarriorHelmet_Multicam, *, 50000, 2500
+    MVS_WarriorHelmet_Multicam_Tropic, *, 50000, 2500
+    MVS_WarriorHelmet_Multicam_Black, *, 50000, 500
 
     <Category> MVS Clothing
   
