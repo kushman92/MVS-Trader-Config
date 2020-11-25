@@ -2,43 +2,43 @@
 
     <Category> MVS Vests
   
-    MVS_Combat_Vest_OD, *, 5100, 50
-    MVS_Combat_Vest_Tan, *, 5100, 50
-    MVS_Combat_Vest_Black, *, 5100, 50
-    MVS_Combat_Vest_Snow, *, 5100, 50
-    MVS_Combat_Vest_ERDL, *, 5100, 50
-    MVS_Combat_Vest_Multicam, *, 5100, 50
-    MVS_Combat_Vest_Multicam_Tropic, *, 5100, 50
-    MVS_Combat_Vest_Multicam_Black, *, 5100, 50
+    MVS_Combat_Vest_OD, *, 5500, 50
+    MVS_Combat_Vest_Tan, *, 5500, 50
+    MVS_Combat_Vest_Black, *, 5500, 50
+    MVS_Combat_Vest_Snow, *, 5500, 50
+    MVS_Combat_Vest_ERDL, *, 5500, 50
+    MVS_Combat_Vest_Multicam, *, 5500, 50
+    MVS_Combat_Vest_Multicam_Tropic, *, 5500, 50
+    MVS_Combat_Vest_Multicam_Black, *, 5500, 50
 
-    MVS_ChestRig_OD, *, 2100, 50
-    MVS_ChestRig_Tan, *, 2100, 50
-    MVS_ChestRig_Black, *, 2100, 50
-    MVS_ChestRig_Snow, *, 2100, 50
-    MVS_ChestRig_ERDL, *, 2100, 50
-    MVS_ChestRig_Multicam, *, 2100, 50
-    MVS_ChestRig_Multicam_Tropic, *, 2100, 50
-    MVS_ChestRig_Multicam_Black, *, 2100, 50
+    MVS_ChestRig_OD, *, 2500, 50
+    MVS_ChestRig_Tan, *, 2500, 50
+    MVS_ChestRig_Black, *, 2500, 50
+    MVS_ChestRig_Snow, *, 2500, 50
+    MVS_ChestRig_ERDL, *, 2500, 50
+    MVS_ChestRig_Multicam, *, 2500, 50
+    MVS_ChestRig_Multicam_Tropic, *, 2500, 50
+    MVS_ChestRig_Multicam_Black, *, 2500, 50
 
-    MVS_Combat_Vest_Heavy_OD, *, 7500, 250
-    MVS_Combat_Vest_Heavy_Tan, *, 7500, 250
-    MVS_Combat_Vest_Heavy_Black, *, 7500, 250
-    MVS_Combat_Vest_Heavy_Snow, *, 7500, 250
-    MVS_Combat_Vest_Heavy_ERDL, *, 7500, 250
-    MVS_Combat_Vest_Heavy_Multicam, *, 7500, 250
-    MVS_Combat_Vest_Heavy_Multicam_Tropic, *, 7500, 250
-    MVS_Combat_Vest_Heavy_Multicam_Black, *, 7500, 250
+    MVS_Combat_Vest_Heavy_OD, *, 10000, 250
+    MVS_Combat_Vest_Heavy_Tan, *, 10000, 250
+    MVS_Combat_Vest_Heavy_Black, *, 10000, 250
+    MVS_Combat_Vest_Heavy_Snow, *, 10000, 250
+    MVS_Combat_Vest_Heavy_ERDL, *, 10000, 250
+    MVS_Combat_Vest_Heavy_Multicam, *, 10000, 250
+    MVS_Combat_Vest_Heavy_Multicam_Tropic, *, 10000, 250
+    MVS_Combat_Vest_Heavy_Multicam_Black, *, 10000, 250
 
     <Category> MVS Pouches
   
-    MVS_Heavy_Pouch_OD, *, 200, 100
-    MVS_Heavy_Pouch_Tan, *, 200, 100
-    MVS_Heavy_Pouch_Black, *, 200, 100
-    MVS_Heavy_Pouch_Snow, *, 200, 100
-    MVS_Heavy_Pouch_ERDL, *, 200, 100
-    MVS_Heavy_Pouch_Multicam, *, 200, 100
-    MVS_Heavy_Pouch_Multicam_Tropic, *, 200, 100
-    MVS_Heavy_Pouch_Multicam_Black, *, 200, 100
+    MVS_Heavy_Pouch_OD, *, 500, 100
+    MVS_Heavy_Pouch_Tan, *, 500, 100
+    MVS_Heavy_Pouch_Black, *, 500, 100
+    MVS_Heavy_Pouch_Snow, *, 500, 100
+    MVS_Heavy_Pouch_ERDL, *, 500, 100
+    MVS_Heavy_Pouch_Multicam, *, 500, 100
+    MVS_Heavy_Pouch_Multicam_Tropic, *, 500, 100
+    MVS_Heavy_Pouch_Multicam_Black, *, 500, 100
 
 
     MVS_Magazine_Pouch_OD, *, 100, 50
