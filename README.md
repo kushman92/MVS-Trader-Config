@@ -1,6 +1,6 @@
 # MVS-Trader-Config
 
-    <Category> Modular Vest System Vests
+    <Category> MVS Vests
   
     MVS_Combat_Vest_OD, *, 5100, 50
     MVS_Combat_Vest_Tan, *, 5100, 50
@@ -29,7 +29,7 @@
     MVS_Combat_Vest_Heavy_Multicam_Tropic, *, 7500, 250
     MVS_Combat_Vest_Heavy_Multicam_Black, *, 7500, 250
 
-    <Category> Modular Vest System Pouches
+    <Category> MVS Pouches
   
     MVS_Heavy_Pouch_OD, *, 200, 100
     MVS_Heavy_Pouch_Tan, *, 200, 100
